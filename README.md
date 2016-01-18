@@ -1,3 +1,2 @@
 # new-test-repo
-imgur link to website screenshots
-http://imgur.com/a/ZKlrk
+website link http://apocalypsesurvival.x10host.com/html
