@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+    
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="#">Sign Up</a></li>
+          <li><a href="#">Log In</a></li>
+          <li><a href="#">Help</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Be prepared for apocalypse.</h1>
+        <p>You never know what tomorrow will bring.</p>
+        <a href="#">Learn More</a>
+      </div>
+    </div> 
+    
+<div class="neighborhood-guides">
+    <div class="container">
+        <h2>Local Guides</h2>
+        <p>Pick your location to see the survival guide for your area.</p>
+        
+        <div class="row">
+            <div class="col-md-4">
+                <div class="thumbnail">
+                <img src="http://goo.gl/0sX3jq">
+                </div>
+                <div class="thumbnail">
+                <img src="http://goo.gl/an2HXY">
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="http://goo.gl/Av1pac">
+                </div>
+                <div class="thumbnail">
+                <img src="http://goo.gl/vw43v1">
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+            <div class="thumbnail">
+            <img src="http://goo.gl/AvlPdC">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="learn-more">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-4">
+      <h3>1.Find the closest bunker</h3>
+      <p>Pick a location from the menu or use the map to navigate.</p>
+      <p><a href="#">Go to the map</a></p>
+        </div>
+      <div class="col-md-4">
+      <h3>2. Never travel alone</h3>
+      <p>You have better chances to survive travelingwith other people</p>
+      <p><a href="#">Find people near me</a></p>
+      </div>
+      <div class="col-md-4">
+      <h3>3. Supplies</h3>
+      <p>Always remember to have enough water, food and bullets.</p>
+      <p><a href="#">List of ecommended supplies</a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+  </body>
+</html>
